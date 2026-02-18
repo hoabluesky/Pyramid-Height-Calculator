@@ -1,7 +1,5 @@
 # Pyramid Height Calculator
 
-git 
-
 ## Problem Description
 Given a number of blocks, the program determines how many complete levels of a pyramid can be built, where:
 - Level 1 requires 1 block
