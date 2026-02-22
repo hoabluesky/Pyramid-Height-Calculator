@@ -28,10 +28,6 @@ venv\Scripts\activate #Windows
 ```bash
 pip install -e .
 ```
-3. (Optional) Install development dependencies 
-```bash
-pip install -r requirements.txt
-```
 
 ## Requirements
 - Python 3.9+

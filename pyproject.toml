@@ -8,6 +8,7 @@ version = "0.1"
 description = "A simple pyramid height calculator"
 authors = [{name = "Hoa Mai"}]
 requires-python = ">=3.9"
+dependencies = ["pytest"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
